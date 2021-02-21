@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/bernal_uri?color=%231DA1F2&label=bernal_uri&logo=twitter&style=for-the-badge)](https://twitter.com/bernal_uri)
+
 <!--
 **oriolbernal/oriolbernal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
