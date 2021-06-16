@@ -5,6 +5,13 @@
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/uribernal99/)](https://www.instagram.com/uribernal99/)
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oriolbernal&show_icons=true&locale=en&layout=compact" alt="oriolbernal" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oriolbernal&show_icons=true&locale=en" alt="oriolbernal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oriolbernal&" alt="oriolbernal" /></p>
+
+
 <!-- BADGE GENERATOR
 https://badgesgenerator.com/
 https://simpleicons.org/?q=instagram
